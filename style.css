@@ -1,0 +1,69 @@
+body {
+    background-color: orangered;
+    text-align: center;
+}
+
+p1 {
+    color: #dcf5f2;
+    font-size: 50px;
+    font-display: auto;
+    font-family: inherit;
+    text-overflow: ellipsi;
+}
+
+p2 {
+    color: azure;
+    font-size: 50px;
+    font-display: auto;
+    font-family: inherit;
+    text-overflow: inherit;
+}
+
+h1 {
+    color: deepskyblue;
+    font-size: 25px;
+    font-family: monospace
+}
+
+h2 {
+    color: deepskyblue;
+    font-size: 25px;
+    font-family: monospace
+}
+
+h3 {
+    color: deepskyblue;
+    font-size: 25px;
+    font-family: monospace
+}
+
+h4 {
+    color: deepskyblue;
+    font-size: 25px;
+    font-family: monospace
+}
+
+
+#car {
+    width: 200px;
+    border-radius: 5px;
+}
+
+#flower {
+    width: 200px;
+    border-radius: 5px;
+}
+
+#animal {
+    width: 200px;
+    border-radius: 5px;
+}
+
+#bird {
+    width: 200px;
+    border-radius: 5px;
+}
+
+div {
+    margin: 20px;
+}
